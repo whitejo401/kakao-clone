@@ -11,3 +11,15 @@
   opacity: 0.6;
   margin-bottom: 10px;
 }
+
+.friends__header:hover {
+  background-color: #ececed;
+}
+
+.friends__plus .friends__friend:hover {
+  background-color: #ececed;
+}
+
+.friends__list .friends__friend:hover {
+  background-color: #ececed;
+}
